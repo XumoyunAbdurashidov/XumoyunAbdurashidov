@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XumoyunAbdurashidov
 - 👀 I’m interested in ...Front-End
-- 🌱 I’m currently learning aeufh  JavaScript
+- 🌱 I’m currently learning aeufh  JavaScript(Samar Badriddinov)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
